@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aba9a87f-3ad2-47fb-acf9-3897a0f6cd81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l9NWsAss6Sd5zeTG7eafB2OQrz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\backend\timetable\timetable-osgi\Launcher" />
+      <recent name="D:\backend\timetable\timetable-osgi\Launcher\src" />
+      <recent name="D:\backend\timetable\timetable-osgi\Launcher\lib" />
+      <recent name="C:\Users\ChinJiaXiong\Documents\NetBeansProjects\OSGIPractice\Launcher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\backend\timetable\timetable-osgi\Launcher" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codabook.osgi.Launcher" />
+      <module name="Launcher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codabook.osgi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba9a87f-3ad2-47fb-acf9-3897a0f6cd81" name="Default Changelist" comment="" />
+      <created>1607005381860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607005381860</updated>
+      <workItem from="1607005384565" duration="2769000" />
+      <workItem from="1607061511575" duration="55000" />
+      <workItem from="1607187408210" duration="46000" />
+      <workItem from="1608782290374" duration="4457000" />
+      <workItem from="1608949680605" duration="1436000" />
+      <workItem from="1608954467367" duration="2070000" />
+      <workItem from="1608986237315" duration="10103000" />
+      <workItem from="1609042493178" duration="2738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608782321847">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1608782321847" />
+    <state x="401" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607006217479">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="401" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1607006217479" />
+    <state x="490" y="250" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607005391281">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="490" y="250" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1607005391281" />
+    <state x="407" y="94" key="FileChooserDialogImpl" timestamp="1609044319399">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="407" y="94" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609044319399" />
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1609045162164">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1609045162164" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1609045162164">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1609045162164" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1609045162164">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1609045162164" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1609045162164">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1609045162164" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1609044320233">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="175" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1609044320233" />
+    <state x="336" y="92" width="609" height="536" key="find.popup" timestamp="1607006207817">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="336" y="92" width="609" height="536" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1607006207817" />
+  </component>
+</project>

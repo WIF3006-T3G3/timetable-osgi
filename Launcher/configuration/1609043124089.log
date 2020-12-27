@@ -1,0 +1,14 @@
+!SESSION 2020-12-27 12:25:24.739 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_241
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+
+!ENTRY TimetableImplementation 4 0 2020-12-27 12:25:24.740
+!MESSAGE [SCR] Error occurred while processing end tag of XML 'bundleentry://9.fwk1500056228/META-INF/component.xml' in bundle TimetableImplementation_1.0.0.qualifier [9]!  The 'component' tag must have exactly one 'implementation' attribute at line 4
+
+!ENTRY TimetableImplementation 4 0 2020-12-27 12:25:24.742
+!MESSAGE [SCR] Error occurred while processing end tag of XML 'bundleentry://9.fwk1500056228/META-INF/component.xml' in bundle TimetableImplementation_1.0.0.qualifier [9]!  The 'component' tag must have exactly one 'implementation' attribute at line 4
+
+!ENTRY TimetableImplementation 2 0 2020-12-27 12:25:24.743
+!MESSAGE [SCR] No components were found while processing component definition file bundleentry://9.fwk1500056228/META-INF/component.xml

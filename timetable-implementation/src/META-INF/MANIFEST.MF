@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Implementation
+Bundle-SymbolicName: TimetableImplementation
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework;version="1.6.0",
+ org.osgi.service.component;version="1.1.0",
+ com.google.gson,
+ timetabledto,
+ timetableinterface
+Service-Component: META-INF/component.xml
+

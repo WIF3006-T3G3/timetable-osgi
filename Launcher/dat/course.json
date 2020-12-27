@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "code": "WIA2001",
+    "groups": "11",
+    "lecturerCode": "SSAR",
+    "location": "MM1",
+    "start": "MON10.00",
+    "end": "MON10.59",
+    "types": "T"
+  },
+  {
+    "id": 2,
+    "code": "WIA2001",
+    "groups": "12",
+    "lecturerCode": "SSAR",
+    "location": "MM1",
+    "start": "MON11.00",
+    "end": "MON11.59",
+    "types": "T"
+  },
+  {
+    "id": 3,
+    "code": "WIA2003",
+    "groups": "9",
+    "lecturerCode": "SD",
+    "location": "MM1",
+    "start": "MON14.00",
+    "end": "MON14.59",
+    "types": "T"
+  },
+  {
+    "id": 4,
+    "code": "WIA2003",
+    "groups": "10",
+    "lecturerCode": "SD",
+    "location": "MM1",
+    "start": "MON15.00",
+    "end": "MON15.59",
+    "types": "T"
+  },
+  {
+    "id": 5,
+    "code": "WIA2003",
+    "groups": "11",
+    "lecturerCode": "SD",
+    "location": "MM1",
+    "start": "MON16.00",
+    "end": "MON16.59",
+    "types": "T"
+  },
+  {
+    "id": 6,
+    "code": "WIA2001",
+    "groups": "14",
+    "lecturerCode": "NAG",
+    "location": "MM2",
+    "start": "MON10.00",
+    "end": "MON10.59",
+    "types": "T"
+  },
+  {
+    "id": 7,
+    "code": "WIA2003",
+    "groups": "1",
+    "lecturerCode": "HWL",
+    "location": "ML",
+    "start": "MON14.00",
+    "end": "MON14.59",
+    "types": "T"
+  },
+  {
+    "id": 8,
+    "code": "WIA2003",
+    "groups": "2",
+    "lecturerCode": "HWL",
+    "location": "ML",
+    "start": "MON15.00",
+    "end": "MON15.59",
+    "types": "T"
+  },
+  {
+    "id": 9,
+    "code": "WIA2001",
+    "groups": "5",
+    "lecturerCode": "TYW",
+    "location": "MM6",
+    "start": "MON10.00",
+    "end": "MON10.59",
+    "types": "T"
+  },
+  {
+    "id": 10,
+    "code": "WIA2001",
+    "groups": "6",
+    "lecturerCode": "TYW",
+    "location": "MM6",
+    "start": "MON11.00",
+    "end": "MON11.59",
+    "types": "T"
+  },
+  {
+    "id": 11,
+    "code": "WIA2001",
+    "groups": "7",
+    "lecturerCode": "TYW",
+    "location": "MM6",
+    "start": "MON13.00",
+    "end": "MON13.59",
+    "types": "T"
+  },
+  {
+    "id": 12,
+    "code": "WIA2003",
+    "groups": "12",
+    "lecturerCode": "SM",
+    "location": "MM6",
+    "start": "MON14.00",
+    "end": "MON14.59",
+    "types": "T"
+  },
+  {
+    "id": 13,
+    "code": "WIA2003",
+    "groups": "13",
+    "lecturerCode": "SM",
+    "location": "MM6",
+    "start": "MON15.00",
+    "end": "MON15.59",
+    "types": "T"
+  },
+  {
+    "id": 14,
+    "code": "WIA2001",
+    "groups": "8",
+    "lecturerCode": "MAI",
+    "location": "MS",
+    "start": "MON10.00",
+    "end": "MON10.59",
+    "types": "T"
+  },
+  {
+    "id": 15,
+    "code": "WIA2001",
+    "groups": "9",
+    "lecturerCode": "MAI",
+    "location": "MS",
+    "start": "MON11.00",
+    "end": "MON11.59",
+    "types": "T"
+  },
+  {
+    "id": 16,
+    "code": "WIA2001",
+    "groups": "10",
+    "lecturerCode": "MAI",
+    "location": "MS",
+    "start": "MON13.00",
+    "end": "MON13.59",
+    "types": "T"
+  },
+  {
+    "id": 17,
+    "code": "WIA2001",
+    "groups": "1",
+    "lecturerCode": "FH",
+    "location": "MM3",
+    "start": "MON10.00",
+    "end": "MON10.59",
+    "types": "T"
+  },
+  {
+    "id": 18,
+    "code": "WIA2001",
+    "groups": "2",
+    "lecturerCode": "FH",
+    "location": "MM3",
+    "start": "MON11.00",
+    "end": "MON11.59",
+    "types": "T"
+  },
+  {
+    "id": 19,
+    "code": "WIA2001",
+    "groups": "3",
+    "lecturerCode": "FH",
+    "location": "MM3",
+    "start": "MON13.00",
+    "end": "MON13.59",
+    "types": "T"
+  },
+  {
+    "id": 20,
+    "code": "WIA2001",
+    "groups": "4",
+    "lecturerCode": "FH",
+    "location": "MM3",
+    "start": "MON14.00",
+    "end": "MON14.59",
+    "types": "T"
+  },
+  {
+    "id": 21,
+    "code": "WIA2002",
+    "groups": "2",
+    "lecturerCode": "AAS",
+    "location": "DK1",
+    "start": "TUE12.00",
+    "end": "TUE13.59",
+    "types": "K"
+  },
+  {
+    "id": 22,
+    "code": "WIX2002",
+    "groups": "1",
+    "lecturerCode": "RA",
+    "location": "DK1",
+    "start": "TUE14.00",
+    "end": "TUE15.59",
+    "types": "K"
+  },
+  {
+    "id": 23,
+    "code": "WIX2002",
+    "groups": "2",
+    "lecturerCode": "MHN",
+    "location": "DK2",
+    "start": "TUE14.00",
+    "end": "TUE15.59",
+    "types": "K"
+  },
+  {
+    "id": 24,
+    "code": "WIX2001",
+    "groups": "2",
+    "lecturerCode": "HZ",
+    "location": "BK",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 25,
+    "code": "WIX2001",
+    "groups": "4",
+    "lecturerCode": "MIS",
+    "location": "BT1",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 26,
+    "code": "WIX2001",
+    "groups": "10",
+    "lecturerCode": "NMY",
+    "location": "BT2",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 27,
+    "code": "WIX2001",
+    "groups": "12",
+    "lecturerCode": "ER",
+    "location": "BT3",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 28,
+    "code": "WIX2001",
+    "groups": "11",
+    "lecturerCode": "NAKS",
+    "location": "BT4",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 29,
+    "code": "WIX2001",
+    "groups": "6",
+    "lecturerCode": "NH",
+    "location": "BT5",
+    "start": "TUE9.00",
+    "end": "TUE11.59",
+    "types": "X"
+  },
+  {
+    "id": 30,
+    "code": "WIA2003",
+    "groups": "3",
+    "lecturerCode": "HWL",
+    "location": "MM1",
+    "start": "TUE8.00",
+    "end": "TUE8.59",
+    "types": "T"
+  },
+  {
+    "id": 31,
+    "code": "WIA2003",
+    "groups": "4",
+    "lecturerCode": "HWL",
+    "location": "MM1",
+    "start": "TUE9.00",
+    "end": "TUE9.59",
+    "types": "T"
+  },
+  {
+    "id": 32,
+    "code": "WIA2003",
+    "groups": "5",
+    "lecturerCode": "HWL",
+    "location": "MM1",
+    "start": "TUE10.00",
+    "end": "TUE10.59",
+    "types": "T"
+  },
+  {
+    "id": 33,
+    "code": "WIA2003",
+    "groups": "6",
+    "lecturerCode": "MRZ",
+    "location": "MM6",
+    "start": "TUE8.00",
+    "end": "TUE8.59",
+    "types": "T"
+  },
+  {
+    "id": 34,
+    "code": "WIA2003",
+    "groups": "7",
+    "lecturerCode": "SM",
+    "location": "MM6",
+    "start": "TUE9.00",
+    "end": "TUE9.59",
+    "types": "T"
+  },
+  {
+    "id": 35,
+    "code": "WIA2003",
+    "groups": "8",
+    "lecturerCode": "SM",
+    "location": "MM6",
+    "start": "TUE10.00",
+    "end": "TUE10.59",
+    "types": "T"
+  },
+  {
+    "id": 36,
+    "code": "WIA2003",
+    "groups": "1",
+    "lecturerCode": "HWL",
+    "location": "DK1",
+    "start": "WED10.00",
+    "end": "WED11.59",
+    "types": "K"
+  },
+  {
+    "id": 37,
+    "code": "WIA2003",
+    "groups": "2",
+    "lecturerCode": "SD",
+    "location": "DK2",
+    "start": "WED10.00",
+    "end": "WED11.59",
+    "types": "K"
+  },
+  {
+    "id": 38,
+    "code": "WIA2001",
+    "groups": "1",
+    "lecturerCode": "FH",
+    "location": "DK1",
+    "start": "WED14.00",
+    "end": "WED15.59",
+    "types": "K"
+  },
+  {
+    "id": 39,
+    "code": "WIA2002",
+    "groups": "1",
+    "lecturerCode": "CTK",
+    "location": "DK2",
+    "start": "WED12.00",
+    "end": "WED13.59",
+    "types": "K"
+  },
+  {
+    "id": 40,
+    "code": "WIA2001",
+    "groups": "2",
+    "lecturerCode": "MAI",
+    "location": "DK2",
+    "start": "WED14.00",
+    "end": "WED15.59",
+    "types": "K"
+  },
+  {
+    "id": 41,
+    "code": "WIX2002",
+    "groups": "10",
+    "lecturerCode": "OSH",
+    "location": "DK2",
+    "start": "THU9.00",
+    "end": "THU9.59",
+    "types": "T"
+  },
+  {
+    "id": 42,
+    "code": "WIX2002",
+    "groups": "11",
+    "lecturerCode": "OSH",
+    "location": "DK2",
+    "start": "THU10.00",
+    "end": "THU10.59",
+    "types": "T"
+  },
+  {
+    "id": 43,
+    "code": "WIX2002",
+    "groups": "12",
+    "lecturerCode": "MHN",
+    "location": "BK",
+    "start": "THU11.00",
+    "end": "THU11.59",
+    "types": "T"
+  },
+  {
+    "id": 44,
+    "code": "WIX2002",
+    "groups": "13",
+    "lecturerCode": "MHN",
+    "location": "BK",
+    "start": "THU12.00",
+    "end": "THU12.59",
+    "types": "T"
+  },
+  {
+    "id": 45,
+    "code": "WIX2002",
+    "groups": "4",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU9.00",
+    "end": "THU9.59",
+    "types": "T"
+  },
+  {
+    "id": 46,
+    "code": "WIX2002",
+    "groups": "5",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU10.00",
+    "end": "THU10.59",
+    "types": "T"
+  },
+  {
+    "id": 47,
+    "code": "WIX2002",
+    "groups": "6",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU11.00",
+    "end": "THU11.59",
+    "types": "T"
+  },
+  {
+    "id": 48,
+    "code": "WIX2002",
+    "groups": "7",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU13.00",
+    "end": "THU13.59",
+    "types": "T"
+  },
+  {
+    "id": 49,
+    "code": "WIX2002",
+    "groups": "8",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU14.00",
+    "end": "THU14.59",
+    "types": "T"
+  },
+  {
+    "id": 50,
+    "code": "WIX2002",
+    "groups": "9",
+    "lecturerCode": "CYK",
+    "location": "BT4",
+    "start": "THU15.00",
+    "end": "THU15.59",
+    "types": "T"
+  },
+  {
+    "id": 51,
+    "code": "WIX2002",
+    "groups": "1",
+    "lecturerCode": "RA",
+    "location": "BT5",
+    "start": "THU10.00",
+    "end": "THU10.59",
+    "types": "T"
+  },
+  {
+    "id": 52,
+    "code": "WIX2002",
+    "groups": "2",
+    "lecturerCode": "RA",
+    "location": "BT5",
+    "start": "THU11.00",
+    "end": "THU11.59",
+    "types": "T"
+  },
+  {
+    "id": 53,
+    "code": "WIX2002",
+    "groups": "3",
+    "lecturerCode": "RA",
+    "location": "BT5",
+    "start": "THU12.00",
+    "end": "THU12.59",
+    "types": "T"
+  },
+  {
+    "id": 54,
+    "code": "WIA2002",
+    "groups": "2",
+    "lecturerCode": "SMT",
+    "location": "MM1",
+    "start": "THU10.00",
+    "end": "THU10.59",
+    "types": "T"
+  },
+  {
+    "id": 55,
+    "code": "WIA2002",
+    "groups": "3",
+    "lecturerCode": "SMT",
+    "location": "MM1",
+    "start": "THU11.00",
+    "end": "THU11.59",
+    "types": "T"
+  },
+  {
+    "id": 56,
+    "code": "WIA2002",
+    "groups": "4",
+    "lecturerCode": "SMT",
+    "location": "MM1",
+    "start": "THU13.00",
+    "end": "THU13.59",
+    "types": "T"
+  },
+  {
+    "id": 57,
+    "code": "WIA2002",
+    "groups": "5",
+    "lecturerCode": "SMT",
+    "location": "MM1",
+    "start": "THU14.00",
+    "end": "THU14.59",
+    "types": "T"
+  },
+  {
+    "id": 58,
+    "code": "WIA2002",
+    "groups": "7",
+    "lecturerCode": "SMT",
+    "location": "MM1",
+    "start": "THU17.00",
+    "end": "THU17.59",
+    "types": "T"
+  },
+  {
+    "id": 59,
+    "code": "WIA2002",
+    "groups": "9",
+    "lecturerCode": "LSP",
+    "location": "MS",
+    "start": "THU12.00",
+    "end": "THU12.59",
+    "types": "T"
+  },
+  {
+    "id": 60,
+    "code": "WIA2002",
+    "groups": "11",
+    "lecturerCode": "LSP",
+    "location": "MS",
+    "start": "THU13.00",
+    "end": "THU13.59",
+    "types": "T"
+  },
+  {
+    "id": 61,
+    "code": "WIA2002",
+    "groups": "10",
+    "lecturerCode": "LSP",
+    "location": "MS",
+    "start": "THU15.00",
+    "end": "THU15.59",
+    "types": "T"
+  },
+  {
+    "id": 62,
+    "code": "WIA2002",
+    "groups": "6",
+    "lecturerCode": "LSP",
+    "location": "MS",
+    "start": "THU16.00",
+    "end": "THU16.59",
+    "types": "T"
+  },
+  {
+    "id": 63,
+    "code": "WIA2002",
+    "groups": "1",
+    "lecturerCode": "CTK",
+    "location": "MM3",
+    "start": "THU12.00",
+    "end": "THU12.59",
+    "types": "T"
+  },
+  {
+    "id": 64,
+    "code": "WIA2002",
+    "groups": "8",
+    "lecturerCode": "AAS",
+    "location": "MM4",
+    "start": "THU11.00",
+    "end": "THU11.59",
+    "types": "T"
+  },
+  {
+    "id": 65,
+    "code": "WIX1002",
+    "groups": "5",
+    "lecturerCode": "LCS",
+    "location": "MM3",
+    "start": "THU13.00",
+    "end": "THU15.59",
+    "types": "T"
+  },
+  {
+    "id": 66,
+    "code": "WIX2001",
+    "groups": "3",
+    "lecturerCode": "MIS",
+    "location": "DK1",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 67,
+    "code": "WIX2001",
+    "groups": "8",
+    "lecturerCode": "UO",
+    "location": "DK2",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 68,
+    "code": "WIX2001",
+    "groups": "1",
+    "lecturerCode": "HZ",
+    "location": "BK",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 69,
+    "code": "WIX2001",
+    "groups": "13",
+    "lecturerCode": "MRZ",
+    "location": "BT1",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 70,
+    "code": "WIX2001",
+    "groups": "5",
+    "lecturerCode": "NH",
+    "location": "BT2",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 71,
+    "code": "WIX2001",
+    "groups": "7",
+    "lecturerCode": "ER",
+    "location": "BT4",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  },
+  {
+    "id": 72,
+    "code": "WIX2001",
+    "groups": "9",
+    "lecturerCode": "NMY",
+    "location": "BT5",
+    "start": "FRI9.00",
+    "end": "FRI11.59",
+    "types": "X"
+  }
+]

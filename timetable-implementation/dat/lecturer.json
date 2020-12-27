@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "code": "SMT",
+    "name": "DR. SU MOON TING",
+    "cv": "http://umexpert.um.edu.my/smting"
+  },
+  {
+    "id": 2,
+    "code": "IA",
+    "name": "DR. ISMAIL BIN AHMEDY",
+    "cv": "http://umexpert.um.edu.my/ismailahmedy"
+  },
+  {
+    "id": 3,
+    "code": "ER",
+    "name": "DR. ERMA RAHAYU BINTI MOHD FAIZAL ABDULLAH",
+    "cv": "http://umexpert.um.edu.my/erma"
+  },
+  {
+    "id": 4,
+    "code": "MHN",
+    "name": "MOHD HAIRUL NIZAM BIN MD NASIR",
+    "cv": "http://umexpert.um.edu.my/hairulnizam"
+  },
+  {
+    "id": 5,
+    "code": "RJRY",
+    "name": "RAJA JAMILAH BINTI RAJA YUSOF",
+    "cv": "http://umexpert.um.edu.my/rjry"
+  },
+  {
+    "id": 6,
+    "code": "SHAH",
+    "name": "SITI HAFIZAH BINTI AB HAMID",
+    "cv": "http://umexpert.um.edu.my/sitihafizah"
+  },
+  {
+    "id": 7,
+    "code": "AAS",
+    "name": "ASMIZA BINTI ABDUL SANI",
+    "cv": "http://umexpert.um.edu.my/asmiza"
+  },
+  {
+    "id": 8,
+    "code": "MB",
+    "name": "MUMTAZ BEGUM BINTI PEER MUSTAFA",
+    "cv": "http://umexpert.um.edu.my/mumtaz"
+  },
+  {
+    "id": 9,
+    "code": "RS",
+    "name": "ROSLI BIN SALLEH",
+    "cv": "http://umexpert.um.edu.my/rosli_salleh"
+  },
+  {
+    "id": 10,
+    "code": "ML",
+    "name": "MISS LAIHA BINTI MAT KIAH",
+    "cv": "http://umexpert.um.edu.my/misslaiha"
+  },
+  {
+    "id": 11,
+    "code": "ATF",
+    "name": "ANG TAN FONG",
+    "cv": "http://umexpert.um.edu.my/angtf"
+  },
+  {
+    "id": 12,
+    "code": "RMN",
+    "name": "RAFIDAH BINTI MD NOOR",
+    "cv": "http://umexpert.um.edu.my/fidah"
+  },
+  {
+    "id": 13,
+    "code": "NBA",
+    "name": "NOR BADRUL ANUAR BIN JUMA'AT",
+    "cv": "http://umexpert.um.edu.my/badrul"
+  },
+  {
+    "id": 14,
+    "code": "LCS",
+    "name": "LIEW CHEE SUN",
+    "cv": "http://umexpert.um.edu.my/csliew"
+  },
+  {
+    "id": 15,
+    "code": "CYK",
+    "name": "CHIAM YIN KIA",
+    "cv": "http://umexpert.um.edu.my/yinkia"
+  },
+  {
+    "id": 16,
+    "code": "NMS",
+    "name": "NOR LIYANA BT MOHD SHUIB",
+    "cv": "http://umexpert.um.edu.my/liyanashuib"
+  },
+  {
+    "id": 17,
+    "code": "BSA",
+    "name": "BUSYAIRAH BINTI SYD ALI",
+    "cv": "http://umexpert.um.edu.my/busyairah"
+  },
+  {
+    "id": 18,
+    "code": "CCS",
+    "name": "CHAN CHEE SENG",
+    "cv": "http://umexpert.um.edu.my/cs.chan"
+  },
+  {
+    "id": 19,
+    "code": "NMN",
+    "name": "NOORZAILY BIN MOHAMED NOOR",
+    "cv": "http://umexpert.um.edu.my/zaily"
+  },
+  {
+    "id": 20,
+    "code": "EMT",
+    "name": "EMRAN BIN MOHD TAMIL",
+    "cv": "http://umexpert.um.edu.my/emran"
+  },
+  {
+    "id": 21,
+    "code": "TKS",
+    "name": "TEY KOK SOON",
+    "cv": "http://umexpert.um.edu.my/koksoon"
+  },
+  {
+    "id": 22,
+    "code": "RM",
+    "name": "ROHANA BINTI MAHMUD",
+    "cv": "http://umexpert.um.edu.my/rohanamahmud"
+  },
+  {
+    "id": 23,
+    "code": "MNR",
+    "name": "MD NOR RIDZUAN BIN DAUD",
+    "cv": "http://umexpert.um.edu.my/ridzuan"
+  },
+  {
+    "id": 24,
+    "code": "LIM",
+    "name": "LIM CHEE KAU",
+    "cv": "http://umexpert.um.edu.my/limck"
+  },
+  {
+    "id": 25,
+    "code": "NMY",
+    "name": "NORIZAN BINTI MOHD YASIN",
+    "cv": "http://umexpert.um.edu.my/norizan"
+  },
+  {
+    "id": 26,
+    "code": "SD",
+    "name": "SRI DEVI A/P RAVANA",
+    "cv": "http://umexpert.um.edu.my/sdevi"
+  },
+  {
+    "id": 27,
+    "code": "NAKS",
+    "name": "NORDIANA BINTI AHMAD KHARMAN SHAH",
+    "cv": "http://umexpert.um.edu.my/dina"
+  },
+  {
+    "id": 28,
+    "code": "RHA",
+    "name": "RUKAINI BINTI HAJI ABDULLAH",
+    "cv": "http://umexpert.um.edu.my/rukaini"
+  },
+  {
+    "id": 29,
+    "code": "LCK",
+    "name": "LOO CHU KIONG",
+    "cv": "http://umexpert.um.edu.my/ckloo-um"
+  },
+  {
+    "id": 30,
+    "code": "MO",
+    "name": "MAZLIZA BINTI OTHMAN",
+    "cv": "http://umexpert.um.edu.my/mazliza"
+  },
+  {
+    "id": 31,
+    "code": "FO",
+    "name": "FAZIDAH BINTI OTHMAN",
+    "cv": "http://umexpert.um.edu.my/fazidah"
+  },
+  {
+    "id": 32,
+    "code": "MKO",
+    "name": "MOHD KHALIT BIN OTHMAN",
+    "cv": "http://umexpert.um.edu.my/mkhalit"
+  },
+  {
+    "id": 33,
+    "code": "WCS",
+    "name": "WOO CHAW SENG",
+    "cv": "http://umexpert.um.edu.my/cswoo"
+  },
+  {
+    "id": 34,
+    "code": "AWAW",
+    "name": "AINUDDIN WAHID BIN ABDUL WAHAB",
+    "cv": "http://umexpert.um.edu.my/ainuddin"
+  },
+  {
+    "id": 35,
+    "code": "KD",
+    "name": "KASTURI DEWI A/P VARATHAN",
+    "cv": "http://umexpert.um.edu.my/kasturi"
+  },
+  {
+    "id": 36,
+    "code": "LTC",
+    "name": "LING TECK CHAW",
+    "cv": "http://umexpert.um.edu.my/tchaw"
+  },
+  {
+    "id": 37,
+    "code": "YIA",
+    "name": "DR. YANTI IDAYA ASPURA BINTI MOHD KHALID",
+    "cv": "http://umexpert.um.edu.my/yanti"
+  },
+  {
+    "id": 38,
+    "code": "MNA",
+    "name": "DR. MOHAMAD NIZAM BIN AYUB",
+    "cv": "http://umexpert.um.edu.my/nizam_ayub"
+  },
+  {
+    "id": 39,
+    "code": "ZH",
+    "name": "DR. ZATI HAKIM BINTI AZIZUL HASAN",
+    "cv": "http://umexpert.um.edu.my/zati"
+  },
+  {
+    "id": 40,
+    "code": "NF",
+    "name": "DR. NURUL FAZMIDAR BINTI MOHD NOOR",
+    "cv": "http://umexpert.um.edu.my/fazmidar"
+  },
+  {
+    "id": 41,
+    "code": "MIS",
+    "name": "MADAM MAS IDAYU BINTI MD SABRI",
+    "cv": "http://umexpert.um.edu.my/masidayu"
+  },
+  {
+    "id": 42,
+    "code": "HAJ",
+    "name": "DR. HAMID ABDULLAH JALAB ALTULEA",
+    "cv": "http://umexpert.um.edu.my/hamidjalab"
+  },
+  {
+    "id": 43,
+    "code": "SAK",
+    "name": "PROF. DATIN DR. SAMEEM BINTI ABDUL KAREEM",
+    "cv": "http://umexpert.um.edu.my/sameem"
+  },
+  {
+    "id": 44,
+    "code": "CTK",
+    "name": "ASSOCIATE PROF. DR. CHIEW THIAM KIAN ",
+    "cv": "http://umexpert.um.edu.my/tkchiew"
+  },
+  {
+    "id": 45,
+    "code": "LSP",
+    "name": "PROF. DR. LEE SAI PECK",
+    "cv": "http://umexpert.um.edu.my/saipeck"
+  },
+  {
+    "id": 46,
+    "code": "SP",
+    "name": "DR. SHIVAKUMARA PALAIAHNAKOTE",
+    "cv": "http://umexpert.um.edu.my/shiva"
+  },
+  {
+    "id": 47,
+    "code": "SSS",
+    "name": "PROF. DR. SITI SALWAH BINTI SALIM",
+    "cv": "http://umexpert.um.edu.my/salwa"
+  },
+  {
+    "id": 48,
+    "code": "AF",
+    "name": "MR. ALI FAUZI BIN AHMAD KHAN",
+    "cv": "http://umexpert.um.edu.my/alifauzi"
+  },
+  {
+    "id": 49,
+    "code": "AN",
+    "name": "DR. ANJUM NAVEED",
+    "cv": "http://umexpert.um.edu.my/anjum"
+  },
+  {
+    "id": 50,
+    "code": "RAM/RGR",
+    "name": "DR. RAM GOPAL RAJ",
+    "cv": "http://umexpert.um.edu.my/ramdr"
+  },
+  {
+    "id": 51,
+    "code": "RA",
+    "name": "ASSOCIATE PROF. DR. RODINA BINTI AHMAD",
+    "cv": "http://umexpert.um.edu.my/rodina"
+  },
+  {
+    "id": 52,
+    "code": "UO",
+    "name": "DR. UNAIZAH HANUM BINTI OBAIDELLAH",
+    "cv": "http://umexpert.um.edu.my/unaizah"
+  },
+  {
+    "id": 53,
+    "code": "TYW",
+    "name": "ASSOCIATE PROF. DR. TEH YING WAH",
+    "cv": "http://umexpert.um.edu.my/tehyw"
+  },
+  {
+    "id": 54,
+    "code": "ZMK",
+    "name": "ASSOCIATE PROF. DR. ZARINAH BINTI MOHD KASIRUN",
+    "cv": "http://umexpert.um.edu.my/zarinahmk"
+  },
+  {
+    "id": 55,
+    "code": "AK",
+    "name": "DR. AMIRRUDIN BIN KAMSIN",
+    "cv": "http://umexpert.um.edu.my/amir"
+  },
+  {
+    "id": 56,
+    "code": "KK",
+    "name": "ASSOCIATE PROF. DR. KIRAN KAUR A/P GURMIT SINGH",
+    "cv": "http://umexpert.um.edu.my/kiran"
+  },
+  {
+    "id": 57,
+    "code": "NAA",
+    "name": "ASSOCIATE PROF. DR. NOR ANIZA BINTI ABDULLAH",
+    "cv": "http://umexpert.um.edu.my/noraniza"
+  },
+  {
+    "id": 58,
+    "code": "NAG",
+    "name": "DR. NORJIHAN BINTI ABDUL GHANI",
+    "cv": "http://umexpert.um.edu.my/norjihan"
+  },
+  {
+    "id": 59,
+    "code": "NJ",
+    "name": "DR. NAZEAN BINTI JOMHARI",
+    "cv": "http://umexpert.um.edu.my/nazean"
+  },
+  {
+    "id": 60,
+    "code": "SSAR",
+    "name": "DR. SITI SORAYA BINTI ABDUL RAHMAN",
+    "cv": "http://umexpert.um.edu.my/siti_soraya"
+  },
+  {
+    "id": 61,
+    "code": "NHA",
+    "name": "ASSOCIATE PROF. DR. NOORHIDAWATI BINTI ABDULLAH",
+    "cv": "http://umexpert.um.edu.my/noorhidawati"
+  }
+]
